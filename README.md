@@ -28,7 +28,7 @@
 
 ---
 
-### 2. [두 번째 프로젝트](https://https://github.com/SMHRD-2021-KDT-AI-16/EarlyRepo.git)
+### 2. [두 번째 프로젝트](https://github.com/SMHRD-2021-KDT-AI-16/EarlyRepo.git)
 >두 번째 프로젝트 간략 소개  (팀 프로젝트)  
 >개발 기간: 2020.7.18 ~ 2020.11.5  
 >  
